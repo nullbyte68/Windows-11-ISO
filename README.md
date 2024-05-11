@@ -9,8 +9,11 @@ You can install Windows 11 on your computer in many ways. However, there are cer
 Download Windows 11 ISO
 Version	Platform	Download
 
-Windows 11 23H2 Bussiness	64-Bit	https://grufiles.com/lBeuXSUnJ3uHIQU/file
-Windows 11 23H2 Consumer	64-Bit	https://grufiles.com/ZC56pD9eG1fDC1A/file
+Windows 11 23H2 Bussiness
+https://grufiles.com/lBeuXSUnJ3uHIQU/file
+
+Windows 11 23H2 Consumer
+https://grufiles.com/ZC56pD9eG1fDC1A/file
 
 These ISO files include the following editions of Windows 11:
 
